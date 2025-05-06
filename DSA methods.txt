@@ -1,0 +1,12 @@
+1. Sliding window -> subarray/substring (longest/shortest subarray, window, consecutive)
+2. Prefix Sum/Cumulative Sum -> sum of elements in a range efficiently (sum from i to j, number of times X occured in subarray, subarray sum equals K)
+3. Two Pointers -> Array is sorted or needs pairing/traversal from both ends (pair, sorted, remove duplicates, "minimum window")
+4. Binary Search -> Sorted input or looking for a target value (find, minimum, maximum, K-th, search)
+5. HashMap/HashSet -> Fast lookup, count frequency, duplicates (number of times, exists, count, unordered)
+6. Stack -> LIFO, previous/next greater/ smaller
+7. Queue/ Deque -> FIFO, sliding window max/min
+8. Dynamic Programming -> overlapping subproblems, optimal substructure (count number of ways, max/min, subsequence, partition)
+9. Backtracking/ DFS -> combination/permutations, constraint satisfaction (all possible, generate, combinations
+10. Greedy -> Choose the best at each step for global optimum (minimum number, maximum, earliest/latest, shortest)
+11. Graph -> Nodes/edges (is connected, shortest path, component, island)
+12. Trie -> prefix-based searching, autocomplete, word dictionary
