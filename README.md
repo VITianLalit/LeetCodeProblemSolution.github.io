@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
