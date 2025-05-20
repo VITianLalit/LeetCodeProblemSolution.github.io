@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
+| [1250-longest-common-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
