@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
+## Math
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
