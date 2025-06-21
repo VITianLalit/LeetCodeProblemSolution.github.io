@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/1250-longest-common-subsequence) |
