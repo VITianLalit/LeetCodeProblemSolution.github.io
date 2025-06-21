@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/VITianLalit/LeetCodeProblemSolution.github.io/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
